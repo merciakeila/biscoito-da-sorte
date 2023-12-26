@@ -4,8 +4,10 @@
 
 O aplicativo biscoito da sorte é um app que exibe uma mensagem sempre que o biscoito é aberto.
 
+<div style="display: flex;">
 <img src="./doc/app1.png" width="200px">
 <img src="./doc/app2.png" width="200px">
+</div>
 
 ## Tech
 
